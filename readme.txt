@@ -1,3 +1,7 @@
+readme v.0.1
 This Project is a Portfolio for the creative coding module
 
-This repository will be full after the creative coding module has started
+Containted within this repository
+
+// FootballDearDat.pde  -- Project
+// FootballData.xls -- data stored in excel for Project
