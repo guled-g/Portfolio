@@ -24,7 +24,7 @@ function drawLines(){
   stroke(255,255,255);
   noFill();
 
-  rect(20,20,500,360);
+ 
 
   line(300,20,300,375);
 
