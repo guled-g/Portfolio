@@ -1,26 +1,27 @@
 // Football Field made within p5.js
 //Will be made vaible with Processing Sketch
+// Revamp most of the code to work in Processing instead of p5.js
 
 
-function setup() {
-  createCanvas(600, 400);
-  background(220,220,220)
+
+void setup(){
+
+  size(600,400);
 }
 
-function draw() {
+void draw() {
   background(220);
   drawField();
   drawLines();
 }
 
-function drawField(){
-
-fill(96,128,56);
+void drawField(){
+  fill(96,128,56);
   noStroke();
   rect(20,20,560,360)
 }
 
-function drawLines(){
+void drawLines(){
   stroke(255,255,255);
   noFill();
 
