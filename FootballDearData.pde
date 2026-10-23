@@ -1,6 +1,6 @@
 // Football Field made within p5.js
 //Will be made vaible with Processing Sketch
-// Revamp most of the code to work in Processing instead of p5.js
+// Revamped most of the code to work in Processing instead of p5.js
 
 
 
@@ -18,7 +18,7 @@ void draw() {
 void drawField(){
   fill(96,128,56);
   noStroke();
-  rect(20,20,560,360)
+  rect(20,20,560,360);
 }
 
 void drawLines(){
