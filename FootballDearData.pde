@@ -6,7 +6,7 @@
 
 void setup(){
 
-  size(600,400);
+  size(600,400)
 }
 
 void draw() {
@@ -40,4 +40,8 @@ void drawLines(){
 
   rect(20,(height/2)-105/2,32,105);
   rect(width - 20 -32,(height/ 2) -105/2,32,105);
+}
+ // circles represent players and me more will be added
+void drawCircles(){
+   circle(224,184,220);
 }
