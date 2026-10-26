@@ -42,6 +42,23 @@ void drawLines(){
   rect(width - 20 -32,(height/ 2) -105/2,32,105);
 }
  // circles represent players and me more will be added
+ // 8 a side ... circles positions will be adjusted at a later date
 void drawCircles(){
+   circle(224,184,220);
+   circle(224,184,220);
+   circle(224,184,220);
+   circle(224,184,220);
+   circle(224,184,220);
+   circle(224,184,220);
+   circle(224,184,220);
+   circle(224,184,220);
+   circle(224,184,220);
+   circle(224,184,220);
+   circle(224,184,220);
+   circle(224,184,220);
+   circle(224,184,220);
+   circle(224,184,220);
+   circle(224,184,220);
+   circle(224,184,220);
    circle(224,184,220);
 }
