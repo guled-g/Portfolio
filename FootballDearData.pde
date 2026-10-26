@@ -54,10 +54,10 @@ void drawCircles(){
    circle(224,184,220);
    circle(224,184,220);
    circle(224,184,220);
+   circle(2,184,220);
    circle(224,184,220);
    circle(224,184,220);
-   circle(224,184,220);
-   circle(224,184,220);
+   circle(500,184,220);
    circle(224,184,220);
    circle(224,184,220);
    circle(224,184,220);
