@@ -1,5 +1,5 @@
 //tinkering with methods
-//from method lesson
+//from method lesson/
 
 // -- Global variables are declared first
  
